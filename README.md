@@ -1,2 +1,1 @@
-# political_endorsements
-How do political endorsements from important individuals or groups affect a Congressional candidate’s primary election performance?
+Please visit the following link for a full write up about this project: https://docs.google.com/document/d/1NRP5inkFYT3vYajfl5GZD9sm-yr_ehlpbox_a3f8Fa4/edit?usp=sharing
